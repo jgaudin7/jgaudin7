@@ -24,7 +24,7 @@ Je recherche actuellement une alternance dans le développement web, avec un ryt
 
 ## Projets en cours
 
-### Groovesrc
+### GrooveSrc
 
 Projet personnel autour d’un site de collection et de revente de vinyles.
 
