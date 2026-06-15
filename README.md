@@ -1,24 +1,48 @@
-# Salut, moi c'est Jeremy
+# Jeremy Gaudin - Développement web & reconversion professionnelle
 
-Je suis en pleine reconversion professionnelle vers le développement web. Après une vingtaine d'années dans le management opérationnel, j'ai décidé de me lancer dans le code, une nouvelle page qui s'écrit doucement mais sûrement.
+## Qui suis-je ?
 
-À partir de septembre 2026, je rejoins le centre de formation 2i Academy et je recherche activement une alternance pour démarrer cette aventure (rythme de 3 semaines en entreprise et 1 semaine en école).
+Je suis actuellement en reconversion vers le développement web, avec une entrée en formation Développeur Web & Web Mobile chez 2i Academy Montpellier en septembre 2026.
 
-## Ce que j'apprends
+Mon parcours professionnel m’a amené à évoluer dans des environnements exigeants : logistique, automobile, industriel et médical. Ces expériences m’ont permis de développer une culture de la qualité, une méthode de travail structurée, le sens des responsabilités, ainsi qu’une attention particulière portée à l’organisation, au suivi et à la fiabilité.
 
-Pour le moment, je travaille avec HTML5 et CSS3 (Flexbox, Grid, responsive design) et je commence tout juste à apprendre JavaScript. Côté outils, je suis sur VS Code et Git/GitHub. Et quand je ne code pas, on me trouve souvent sur FL Studio ou Ableton Live à composer un peu de musique.
+Aujourd’hui, je construis cette reconversion avec sérieux autour du développement web, en consolidant mes bases en HTML, CSS, responsive design et JavaScript. Mon objectif est de mettre à profit mon expérience terrain et mes compétences transférables pour progresser rapidement en entreprise, contribuer à des projets concrets et monter progressivement en compétences vers un profil développeur web fiable et opérationnel.
 
-## Mes projets
+## Formation
 
-**Groovesrc** est mon projet personnel : un site de collection et de revente de vinyles, codé en HTML, CSS et JavaScript natif, sans framework. C'est mon terrain de jeu pour apprendre et progresser pas à pas.
+À partir de septembre 2026, j’intègre la formation Développeur Web & Web Mobile chez 2i Academy Montpellier.
 
-**Authentic** est une refonte UX/UI réalisée pour un ami, pour le site vitrine de son restaurant. J'y ai travaillé la structure avec Flexbox et Grid, le responsive design et un menu mobile en cours de réalisation.
+Je recherche actuellement une alternance dans le développement web, avec un rythme de 3 semaines en entreprise et 1 semaine en formation.
+
+## Compétences en cours de consolidation
+
+* HTML5 : structure sémantique, organisation du contenu, hiérarchie des titres
+* CSS3 : mise en page, Flexbox, Grid, responsive design
+* JavaScript : bases du langage, logique, interactions simples
+* Git & GitHub : versionnement, suivi de projet, organisation du code
+* VS Code : environnement de travail principal
+
+## Projets en cours
+
+### Groovesrc
+
+Projet personnel autour d’un site de collection et de revente de vinyles.
+
+Ce projet me permet de consolider mes compétences en HTML et CSS (JavaScript natif en cours de réalisation), avec une attention particulière portée à la structure des pages, au responsive design, à l’organisation du code et à la cohérence visuelle de l’interface.
+
+### Authentic
+
+Refonte UX/UI d’un site vitrine pour un restaurant.
+
+Ce projet m’a permis de travailler sur la structure d’une page web, l’organisation des sections, la mise en page avec Flexbox et Grid, ainsi que l’adaptation responsive. Un menu mobile est également en cours de réalisation.
 
 ## Ce que je recherche
 
-Une alternance en développement web à partir de septembre 2026. Je suis basé à Montpellier, ouvert aux opportunités !
+Je recherche une alternance en développement web à partir de septembre 2026, idéalement dans une structure où je pourrai apprendre en situation réelle, contribuer progressivement aux projets et renforcer mes compétences techniques au contact d’une équipe.
 
-## Pour me contacter
+Je suis basé à Montpellier et ouvert aux opportunités dans le développement web, l’intégration, la création d’interfaces et les projets numériques orientés utilisateur.
 
-Email : jgaudin7@gmail.com
+## Me contacter
+
+Email : [jgaudin7@gmail.com](mailto:jgaudin7@gmail.com)
 LinkedIn : https://www.linkedin.com/in/jeremy-gaudin7
