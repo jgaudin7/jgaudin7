@@ -1,48 +1,133 @@
-# Jeremy Gaudin - Développement web & reconversion professionnelle
+# Jeremy Gaudin | Développement web • Produit numérique • IA appliquée
 
-## Qui suis-je ?
+## À propos
 
-Je suis actuellement en reconversion vers le développement web, avec une entrée en formation Développeur Web & Web Mobile chez 2i Academy Montpellier en septembre 2026.
+Après plus de vingt-cinq ans d’expérience professionnelle dans des environnements exigeants, notamment l’automobile, l’industrie, le médical, la logistique et le management opérationnel, je construis aujourd’hui une reconversion vers les métiers du numérique.
 
-Mon parcours professionnel m’a amené à évoluer dans des environnements exigeants : logistique, automobile, industriel et médical. Ces expériences m’ont permis de développer une culture de la qualité, une méthode de travail structurée, le sens des responsabilités, ainsi qu’une attention particulière portée à l’organisation, au suivi et à la fiabilité.
+Mon objectif évolue vers un profil à la croisée du **développement web, du produit numérique et de l’intelligence artificielle appliquée**.
 
-Aujourd’hui, je construis cette reconversion avec sérieux autour du développement web, en consolidant mes bases en HTML, CSS, responsive design et JavaScript. Mon objectif est de mettre à profit mon expérience terrain et mes compétences transférables pour progresser rapidement en entreprise, contribuer à des projets concrets et monter progressivement en compétences vers un profil développeur web fiable et opérationnel.
+Mon expérience professionnelle m’a apporté une culture de la qualité, de l’organisation et de l’amélioration continue, ainsi qu’une forte capacité à analyser un besoin, structurer une réponse, gérer les priorités et rechercher des solutions concrètes.
 
-## Formation
+Depuis environ un an et demi, je développe mes compétences techniques en autonomie à travers des projets personnels et une première expérience en entreprise.
 
-À partir de septembre 2026, j’intègre la formation Développeur Web & Web Mobile chez 2i Academy Montpellier.
+## Compétences
 
-Je recherche actuellement une alternance dans le développement web, avec un rythme de 3 semaines en entreprise et 1 semaine en formation.
+### Développement
 
-## Compétences en cours de consolidation
+- HTML5
+- CSS3
+- JavaScript
+- Responsive design
+- Git & GitHub
+- API REST
+- SQL / SQLite
+- Svelte
+- Bases de développement fullstack
 
-* HTML5 : structure sémantique, organisation du contenu, hiérarchie des titres
-* CSS3 : mise en page, Flexbox, Grid, responsive design
-* JavaScript : bases du langage, logique, interactions simples
-* Git & GitHub : versionnement, suivi de projet, organisation du code
-* VS Code : environnement de travail principal
+### Produit & UX
 
-## Projets en cours
+- Analyse du besoin et des usages
+- Structuration de parcours utilisateurs
+- UX/UI
+- Identification des points de friction
+- Logique métier
+- Amélioration continue
+- Tests fonctionnels et QA
+
+### IA & méthodes de travail
+
+J’utilise l’intelligence artificielle comme **outil de travail appliqué au développement et au produit** :
+
+- Analyse et clarification des besoins
+- Prototypage et développement assisté
+- Structuration et optimisation des prompts
+- Recherche et résolution de problèmes
+- Revue, tests et contrôle des résultats
+- Documentation
+
+L’objectif reste de conserver une démarche structurée, avec validation humaine et maîtrise des choix techniques et fonctionnels.
+
+## Projets
 
 ### GrooveSrc
 
-Projet personnel autour d’un site de collection et de revente de vinyles.
+Application web consacrée à la gestion et à la valorisation d’une collection de vinyles.
 
-Ce projet me permet de consolider mes compétences en HTML et CSS (JavaScript natif en cours de réalisation), avec une attention particulière portée à la structure des pages, au responsive design, à l’organisation du code et à la cohérence visuelle de l’interface.
+Le projet a progressivement évolué d’une vitrine front-end vers une **application fullstack déployée en production**.
+
+Principales fonctionnalités et technologies :
+
+- JavaScript natif avec modules ES
+- Cloudflare Workers
+- Base de données D1 / SQLite
+- API REST
+- Intégration de l’API Discogs pour les pochettes, tracklists et cotations
+- Intégration Spotify
+- Wishlist
+- Statistiques de collection et de valorisation
+- Authentification via Cloudflare Access
+- Tests automatisés avec Vitest
+- Travail sur l’accessibilité et le responsive design
+
+GrooveSrc constitue aujourd’hui mon principal projet personnel et mon terrain d’expérimentation pour approfondir le développement fullstack, le produit et l’intégration de services externes.
+
+### MonChasseurImmo | Projet d’immersion professionnelle
+
+Projet réalisé lors d’une immersion professionnelle en août et septembre 2026 autour de la conception d’un **module interactif d’évaluation du cadre de vie d’un quartier**.
+
+J’ai participé à la conception et à l’évolution du produit, depuis l’analyse du besoin jusqu’aux phases de validation :
+
+- Réflexion sur le parcours utilisateur
+- Structuration des fonctionnalités
+- Développement d’interfaces avec Svelte
+- Exploitation de données cartographiques et de services externes
+- Conception d’un système de scoring
+- Amélioration UX/UI
+- Responsive design
+- Tests fonctionnels et QA
+- Documentation du projet
+
+Cette expérience a renforcé mon intérêt pour la **logique métier et la conception de produits numériques répondant à des usages concrets**.
+
+> Le code source appartenant à l’entreprise n’est pas publié. Seuls les éléments non confidentiels autorisés sont présentés dans mon portfolio.
 
 ### Authentic
 
-Refonte UX/UI d’un site vitrine pour un restaurant.
+Refonte UX/UI du site vitrine d’un restaurant.
 
-Ce projet m’a permis de travailler sur la structure d’une page web, l’organisation des sections, la mise en page avec Flexbox et Grid, ainsi que l’adaptation responsive. Un menu mobile est également en cours de réalisation.
+Travail réalisé autour de :
 
-## Ce que je recherche
+- Analyse de l’expérience utilisateur
+- Identification des principales frictions
+- Restructuration HTML5
+- Intégration CSS3
+- Amélioration de la lisibilité et du parcours utilisateur
+- Adaptation responsive
+- Amélioration de l’interactivité
 
-Je recherche une alternance en développement web à partir de septembre 2026, idéalement dans une structure où je pourrai apprendre en situation réelle, contribuer progressivement aux projets et renforcer mes compétences techniques au contact d’une équipe.
+## Aujourd’hui
 
-Je suis basé à Montpellier et ouvert aux opportunités dans le développement web, l’intégration, la création d’interfaces et les projets numériques orientés utilisateur.
+Je poursuis ma montée en compétences vers :
 
-## Me contacter
+- React
+- Développement fullstack
+- Bases de données et architecture applicative
+- API et services tiers
+- Automatisation
+- Intégration de fonctionnalités d’intelligence artificielle
+- Conception et pilotage de produits numériques
 
-Email : [jgaudin7@gmail.com](mailto:jgaudin7@gmail.com)
-LinkedIn : https://www.linkedin.com/in/jeremy-gaudin7
+Une entrée en **Product Builder Fullstack chez Jedha** est actuellement visée pour janvier 2027 afin de structurer et approfondir cette évolution professionnelle.
+
+## Objectif professionnel
+
+Je souhaite évoluer vers des fonctions associant **développement, compréhension des besoins utilisateurs, logique métier et conception de produits numériques**.
+
+Je cherche à mettre à profit à la fois ma progression technique et les compétences issues de mon expérience professionnelle : rigueur, autonomie, organisation, culture qualité, capacité d’adaptation, analyse et collaboration avec différents interlocuteurs.
+
+## Contact
+
+**Jeremy Gaudin | Montpellier**
+
+Email : [jgaudin7@gmail.com](mailto:jgaudin7@gmail.com)  
+LinkedIn : [linkedin.com/in/jeremy-gaudin7](https://www.linkedin.com/in/jeremy-gaudin7)
